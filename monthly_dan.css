@@ -30,6 +30,7 @@ header{
 main{
       margin:0 auto;
       max-width: 1000px;
+      display: flex;
 }
 
 .Side_var{
@@ -51,4 +52,41 @@ main{
 .Side_var_single a:hover{
       background-color: #37708a;
       color: white;
+}
+
+.monthly_dan_container{
+     
+      
+
+}
+.monthly_dan_list {
+      background-color: #adc1e7;
+      height: 820px;
+      width: 200px;
+      
+}
+
+
+.monthly_dan_list ol{
+      padding-left: 30px;
+      font-size: 27px;
+      
+}
+
+.monthly_dan_list ol li{
+      background-color: #0296aa;
+      margin-top: 3px;
+      color: white;
+      
+}
+
+.monthly_dan_list ol li:hover{
+      background-color: #153c4e;
+}
+
+.monthly_dan_list ol li a{
+      text-decoration: none;
+      font-size: 25px;
+      color: white;
+      
 }
