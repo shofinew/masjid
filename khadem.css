@@ -1,0 +1,54 @@
+*{
+      margin: 0px;
+      padding: 0px;
+}
+
+header{
+      margin:0 auto;
+      max-width: 1000px;
+}
+
+.top_var{
+      background-color: green;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+}
+
+.logo img{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+}
+.Masjid_name{
+      font-size: 50px;
+      color: #fff;
+      margin-left: 50px;
+}
+
+main{
+      margin:0 auto;
+      max-width: 1000px;
+}
+
+.Side_var{
+      background-color: aquamarine;
+      height: 820px;
+      width: 200px;
+    
+}
+
+.Side_var_single a{
+      text-decoration: none;
+      background-color: #55b6e2;
+      padding: 2px 15px;
+      display: block;
+      margin-top: 2px;
+      font-size: 25px;
+}
+
+.Side_var_single a:hover{
+      background-color: #37708a;
+      color: white;
+}
