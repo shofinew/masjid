@@ -38,6 +38,9 @@ main{
       width: 200px;
     
 }
+.soloman_kaj_this :first-child{
+      background-color: #01ff56;
+}
 
 .Side_var_single a{
       text-decoration: none;

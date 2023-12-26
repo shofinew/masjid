@@ -30,6 +30,7 @@ header{
 main{
       margin:0 auto;
       max-width: 1000px;
+      display: flex;
 }
 
 .Side_var{
@@ -48,7 +49,32 @@ main{
       font-size: 25px;
 }
 
+.Side_var_single_Moajjin :first-child{
+      background-color: #01ff56;
+}
+
 .Side_var_single a:hover{
       background-color: #37708a;
       color: white;
+}
+
+
+.profile_pic img{
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      margin-top: 5px;
+}
+
+.Eduation_Quality{
+      background-color: #37708abb;
+      color: white;
+      height: 380px;
+      width: 350px;
+      margin-top: 5px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 10px 10px 10px gray;
+      
+
 }

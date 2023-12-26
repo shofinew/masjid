@@ -54,11 +54,10 @@ main{
       color: white;
 }
 
-.monthly_dan_container{
-     
-      
-
+.monthly_dan_this :first-child{
+      background-color: #01ff56;
 }
+
 .monthly_dan_list {
       background-color: #adc1e7;
       height: 820px;
@@ -66,7 +65,7 @@ main{
       
 }
 
-
+/* 
 .monthly_dan_list ol{
       padding-left: 30px;
       font-size: 27px;
@@ -89,4 +88,4 @@ main{
       font-size: 25px;
       color: white;
       
-}
+} */

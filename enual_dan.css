@@ -39,6 +39,10 @@ main{
     
 }
 
+.enual_dan_this :first-child{
+      background-color: #01ff56;
+}
+
 .Side_var_single a{
       text-decoration: none;
       background-color: #55b6e2;

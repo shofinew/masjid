@@ -40,19 +40,28 @@ main{
     
 }
 
+
+
+
 .Side_var_single a{
       text-decoration: none;
-      background-color: #55b6e2;
+      background-color: #58b1da;
       padding: 2px 15px;
       display: block;
       margin-top: 2px;
       font-size: 25px;
 }
 
+
 .Side_var_single a:hover{
       background-color: #37708a;
       color: white;
 }
+
+.Side_var_single_this :first-child{
+      background-color: #01ff56;
+}
+
 .profile_pic img{
       height: 200px;
       width: 200px;
