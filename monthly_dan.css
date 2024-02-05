@@ -1,10 +1,11 @@
 *{
-      margin: 0px;
+      margin: 0px ;
       padding: 0px;
+      
 }
 
 header{
-      margin:0 auto;
+      margin:  0px ;
       max-width: 1000px;
 }
 
@@ -65,7 +66,7 @@ main{
       
 }
 
-/* 
+
 .monthly_dan_list ol{
       padding-left: 30px;
       font-size: 27px;
@@ -88,4 +89,17 @@ main{
       font-size: 25px;
       color: white;
       
+}
+
+/* .monthly_dan_overview{
+   
 } */
+
+.month_single{
+      height: 80px;
+      width: 200px;
+      text-align: center;
+      border: 1px solid red;
+      background-color: #ff000039;
+      display: inline-block;
+}
