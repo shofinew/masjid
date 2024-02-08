@@ -37,7 +37,9 @@ main{
 .Side_var{
       background-color: aquamarine;
       height: 820px;
-      width: 200px;
+      min-width: 200px;
+      
+
     
 }
 
@@ -70,8 +72,15 @@ main{
 .monthly_dan_list ol{
       padding-left: 30px;
       font-size: 27px;
-      
+      background-color: #0296aa; 
 }
+
+
+.monthly_dan_list ol:hover{
+      background-color: #153c4e;
+}
+
+
 
 .monthly_dan_list ol li{
       background-color: #0296aa;
@@ -91,15 +100,32 @@ main{
       
 }
 
-/* .monthly_dan_overview{
+.monthly_dan_overview{
    
-} */
+}
 
 .month_single{
       height: 80px;
-      width: 200px;
+      width: 194px;
       text-align: center;
       border: 1px solid red;
       background-color: #ff000039;
-      display: inline-block;
+      margin-bottom: 4px;  
+      display: inline-block;    
+}
+
+.S_alom_div{
+      display: block;
+}
+.Aiub_div{
+      display: none;
+}
+.A_bahadur_div{
+      display: none;
+}
+.G_ajom_div{
+      display: none;
+}
+.S_islam_div{
+      display: none;
 }
